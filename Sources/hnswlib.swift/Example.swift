@@ -7,7 +7,7 @@
  * To use the hnswlib.swift package in your own project:
  *
  * 1. Add it as a dependency in your Package.swift:
- *    .package(url: "https://github.com/your-username/hnswlib.swift.git", from: "1.0.0")
+ *    .package(url: "https://github.com/MegaPortal/hnswlib.swift.git", from: "1.0.0")
  *
  * 2. Import it in your code:
  *    import hnswlib_swift
