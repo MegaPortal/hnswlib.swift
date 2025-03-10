@@ -1,5 +1,10 @@
 # hnswlib.swift
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FMegaPortal%2Fhnswlib.swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/MegaPortal/hnswlib.swift)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FMegaPortal%2Fhnswlib.swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/MegaPortal/hnswlib.swift)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub tag](https://img.shields.io/github/tag/MegaPortal/hnswlib.swift.svg)](https://GitHub.com/MegaPortal/hnswlib.swift/tags/)
+
 Swift bindings for the [HNSW (Hierarchical Navigable Small World)](https://github.com/nmslib/hnswlib) library, a fast approximate nearest neighbor search.
 
 ## Features
